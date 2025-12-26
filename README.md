@@ -39,7 +39,7 @@ This does not ACTUALLY theme your icons; there are many caveats to this, but its
 4. Play around with various styling and sizing options in the "Edit Style" tab of your icon group. By default, the icon group will look weird.
 5. Add a widget to the homescreen, with the same size as the chosen size in "Edit Style".
 6. Long-press on the widget, tap "Edit Widget", and select your newly created group in the "App Group" section.
-7. Profit 🔥
+7. Bask in the glory of your pinterest-worthy homescreen
 
 # How do I get rid of the widget outline on iOS 26?
 - You can't. You can obscure it with your icons(that's what I do), or use Nugget by LeminLimez to disable it(hasn't worked for me, but it's worth a shot)
