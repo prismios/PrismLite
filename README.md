@@ -37,9 +37,10 @@ This does not ACTUALLY theme your icons; there are many caveats to this, but its
 2. In Prism, import and apply the theme by pressing "Add", selecting the theme, waiting for it to import, tapping on the entry, and pressing "Apply Theme".
 3. Create an Icon Group by pressing "New", naming the group, selecting it, then pressing "Add Icons". Search for the apps you'd like to theme in the given widget space (small, medium, large).
 4. Play around with various styling and sizing options in the "Edit Style" tab of your icon group. By default, the icon group will look weird.
-5. Add a widget to the homescreen, with the same size as the chosen size in "Edit Style".
-6. Long-press on the widget, tap "Edit Widget", and select your newly created group in the "App Group" section.
-7. Bask in the glory of your pinterest-worthy homescreen
+5. Press the "Copy Widget Data" button.
+6. Add a widget to the homescreen, with the same size as the chosen size in "Edit Style".
+7. Long-press on the widget, tap "Edit Widget", and paste the widget data in the section.
+8. Bask in the glory of your pinterest-worthy homescreen
 
 # How do I get rid of the widget outline on iOS 26?
 - You can't. You can obscure it with your icons(that's what I do), or use Nugget by LeminLimez to disable it(hasn't worked for me, but it's worth a shot)
