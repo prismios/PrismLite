@@ -1,4 +1,4 @@
-# <img src="icon.png" width="60"/> PrismLite
+# <img src="icon.png" width="60" style="vertical-align: middle;"/> PrismLite
 **A barebones icon themer for iOS 26 that utilizes widgets and various private APIs.**
 
 [Download](https://github.com/prismios/PrismLite/releases) • [Join our Discord!](https://dsc.gg/brocolabs)
