@@ -5,9 +5,7 @@
 
 <img src="screenshot.png"
      alt="PrismLite Screenshot"
-     style="max-width: 100px;
-            border-radius: 14px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.18);" />
+     style="width: 50%;" />
 
 # Disclaimer
 This does not ACTUALLY theme your icons; there are many caveats to this, but its probably the best you'll get on non-exploitable versions. 
