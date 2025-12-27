@@ -16,7 +16,7 @@
   <a href="https://github.com/prismios/PrismLite/releases">
     <img src="https://img.shields.io/github/downloads/prismios/PrismLite/total?style=flat-square">
   </a>
-  <a href="https://dsc.gg/brocolabs">
+  <a href="https://discord.gg/wTTVQ6jXFb">
     <img src="https://img.shields.io/discord/000000000000000000?label=Discord&style=flat-square">
   </a>
 </p>
@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://github.com/prismios/PrismLite/releases"><strong>Download</strong></a>
   •
-  <a href="https://dsc.gg/brocolabs"><strong>Join our Discord</strong></a>
+  <a href="https://discord.gg/wTTVQ6jXFb"><strong>Join our Discord</strong></a>
 </p>
 
 ---
