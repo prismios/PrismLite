@@ -26,6 +26,13 @@
 
 ---
 
+## ⚠️ Warning
+
+This app does NOT work when sideloaded with an **enterprise** certificate. If sideloaded with a developer certificate, ensure "App Groups" are enabled/it works with widgets.
+If sideloaded with an enterprise certificate, widgets will appear blank.
+
+---
+
 ## ✨ What is PrismLite?
 
 *This is a STRIPPED DOWN and BAREBONES version of Prism Full. It features bugs and could use some polish. This is moreso a proof-of-concept than a final product. 
