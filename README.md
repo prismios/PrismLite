@@ -104,7 +104,7 @@ This approach is **extremely** limited, but on locked-down versions of iOS, this
    *(Small / Medium / Large)*
 5. Go to **Edit Style**
    - Adjust sizing and spacing  
-   > ⚠️ Default styling may look odd—this is normal.
+   > ⚠️ Default styling usually looks weird. We know.
 6. Tap **Copy Widget Data**
 7. Add a widget to your homescreen
    - Match the widget size exactly
