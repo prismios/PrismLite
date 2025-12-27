@@ -13,9 +13,6 @@
   <a href="https://github.com/prismios/PrismLite/releases">
     <img src="https://img.shields.io/github/v/release/prismios/PrismLite?style=flat-square">
   </a>
-  <a href="https://github.com/prismios/PrismLite/releases">
-    <img src="https://img.shields.io/github/downloads/prismios/PrismLite/total?style=flat-square">
-  </a>
   <a href="https://discord.gg/wTTVQ6jXFb">
     <img src="https://img.shields.io/discord/1410483293249343511?label=Discord&style=flat-square">
   </a>
