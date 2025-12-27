@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>A barebones icon themer for iOS 26</strong><br/>
-  Widgets • Private APIs • No Redirects
+  Using Widgets & Private APIs. No Redirects.
 </p>
 
 <p align="center">
