@@ -42,6 +42,17 @@ This does not ACTUALLY theme your icons; there are many caveats to this, but its
 7. Long-press on the widget, tap "Edit Widget", and paste the widget data in the section.
 8. Bask in the glory of your pinterest-worthy homescreen
 
+# How do I add a LiveContainer app.
+1. Once you have the app added, tap on it in the group preview.
+3. Switch from "Real App" to "Livecontainer App"
+4. Go to the Livecontainer app, long-press on your app and press "Add to Home Screen" -> "Copy Launch URL"
+5. Go back to Prism and paste the launch url into the field, and press save/
+6. Profit!
+
+# Is there a redirect when tapping icons?
+- No. It utilizes the LSApplicationWorkspace private API to launch apps directly and without redirects.
+- There IS a redirect when opening Livecontainer apps, though, since we can't directly open Livecontainer URL schemes from widgets.
+
 # How do I get rid of the widget outline on iOS 26?
 - You can't. You can obscure it with your icons(that's what I do), or use Nugget by LeminLimez to disable it(hasn't worked for me, but it's worth a shot)
 
