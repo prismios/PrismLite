@@ -1,11 +1,11 @@
-# <img src="icon.png" width="32" align="center" style="border-radius:13px"/> PrismLite
+# <img src="icon.png" width="60"/> PrismLite
 **A barebones icon themer for iOS 26 that utilizes widgets and various private APIs.**
 
 [Download](https://github.com/prismios/PrismLite/releases) • [Join our Discord!](https://dsc.gg/brocolabs)
 
 <img src="screenshot.png"
      alt="PrismLite Screenshot"
-     style="width: 50%;" />
+     style="width: 35%;" />
 
 # Disclaimer
 This does not ACTUALLY theme your icons; there are many caveats to this, but its probably the best you'll get on non-exploitable versions. 
