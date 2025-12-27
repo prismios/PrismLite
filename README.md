@@ -28,10 +28,13 @@
 
 ## ✨ What is PrismLite?
 
-**PrismLite** is a lightweight, widget-based icon theming solution for **non-exploitable versions of iOS**.  
-It doesn’t *actually* replace app icons—but it gets about as close as you can without a jailbreak.
+*This is a STRIPPED DOWN and BAREBONES version of Prism Full. It features bugs and could use some polish. This is moreso a proof-of-concept than a final product. 
+Prism Full will have many more features than this outside of solely icon theming, and will be much more polished.*
 
-By leveraging **widgets**, **private APIs**, and a carefully designed UX, PrismLite delivers a near-native themed homescreen experience.
+**PrismLite** is a lightweight, widget-based icon theming solution for **non-exploitable versions of iOS**.  
+It doesn’t *actually* replace app icons, but it gets about as close as you can without exploits.
+
+By leveraging **widgets**, **private APIs**, and a carefully designed UX, PrismLite attempts to achieve a near-native themed homescreen experience.
 
 ---
 
@@ -39,7 +42,7 @@ By leveraging **widgets**, **private APIs**, and a carefully designed UX, PrismL
 
 > PrismLite does **NOT** modify system icons.
 
-This approach comes with limitations—but on locked-down versions of iOS, this is currently the best achievable result without exploits.
+This approach is **extremely** limited, but on locked-down versions of iOS, this is currently the best achievable result without exploits.
 
 ---
 
@@ -154,8 +157,3 @@ You unfortunately **cannot fully remove** the widget outline.
 - **[Kewlaid](https://x.com/k_wlaid)** — UI feedback & lite icon  
 
 ---
-
-<p align="center">
-  <strong>PrismLite</strong><br/>
-  Pushing iOS theming as far as Apple lets us.
-</p>
