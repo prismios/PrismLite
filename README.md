@@ -1,4 +1,4 @@
-# PrismLite
+# ![PrismLite Icon](icon.png) PrismLite
 **A barebones icon themer for iOS 26 that utilizes widgets and various private APIs.**
 
 [Download](https://github.com/prismios/PrismLite/releases) • [Join our Discord!](https://dsc.gg/brocolabs)
