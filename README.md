@@ -5,7 +5,7 @@
 
 <img src="screenshot.png"
      alt="PrismLite Screenshot"
-     style="max-width: 500px;
+     style="max-width: 100px;
             border-radius: 14px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.18);" />
 
