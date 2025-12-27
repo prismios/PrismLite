@@ -59,7 +59,7 @@ This approach is **extremely** limited, but on locked-down versions of iOS, this
 
 | iOS Version | Status |
 |------------|--------|
-| **iOS 27.0 – 27.3** | ✅ Supported |
+| **iOS 26.0 – 26.3** | ✅ Supported |
 | iOS 17.0 – 18.6.1 | ⚠️ Technically supported (not in current builds) |
 | iOS 16.7.12 and below | ❌ Not Supported |
 
