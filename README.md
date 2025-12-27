@@ -1,67 +1,170 @@
-# <img src="icon.png" width="60" style="vertical-align: middle;"/> PrismLite
-**A barebones icon themer for iOS 26 that utilizes widgets and various private APIs.**
+<p align="center">
+  <img src="icon.png" width="90" />
+</p>
 
-[Download](https://github.com/prismios/PrismLite/releases) • [Join our Discord!](https://dsc.gg/brocolabs)
+<h1 align="center">PrismLite</h1>
 
-<img src="screenshot.png"
-     alt="PrismLite Screenshot"
-     style="width: 35%;" />
+<p align="center">
+  <strong>A barebones icon themer for iOS 26</strong><br/>
+  Widgets • Private APIs • No Redirects
+</p>
 
-# Disclaimer
-This does not ACTUALLY theme your icons; there are many caveats to this, but its probably the best you'll get on non-exploitable versions. 
+<p align="center">
+  <a href="https://github.com/prismios/PrismLite/releases">
+    <img src="https://img.shields.io/github/v/release/prismios/PrismLite?style=flat-square">
+  </a>
+  <a href="https://github.com/prismios/PrismLite/releases">
+    <img src="https://img.shields.io/github/downloads/prismios/PrismLite/total?style=flat-square">
+  </a>
+  <a href="https://dsc.gg/brocolabs">
+    <img src="https://img.shields.io/discord/000000000000000000?label=Discord&style=flat-square">
+  </a>
+</p>
 
-# Support Table
-| iOS Version | Support Status |
-| -------- | ------- |
-| iOS 27.0 - iOS 27.3  | Supported |
-| iOS 17.0 - iOS 18.6.1 | Technically supported but not in the build |
-| iOS 16.7.12- | Not Supported |
+<p align="center">
+  <a href="https://github.com/prismios/PrismLite/releases"><strong>Download</strong></a>
+  •
+  <a href="https://dsc.gg/brocolabs"><strong>Join our Discord</strong></a>
+</p>
 
-# Available Features
-  - Create Faux-App Icons
-    - Normal & Livecontainer
-  - Launch apps using LSApplicationWorkspace via BundleID (No redirect)
-    - Fetched automatically
-  - Launch apps via URL Scheme (Redirect, Livecontainer)
-  - Import & Manage Icon Themes
-    - .deb and .zip
-  - Comprehensive-ish styling tools
-    - Icon size
-    - Icon spacing
-    - Widget background effect
-    - And more..
-  - Immersive, fully transparent widgets
-    - Transparency using Private APIs
-    - Widget does not open main app when tapped
-  - Touch feedback on icons
-    - Unlike alternatives, Prism icons use real buttons, and thus have press animations.
+---
 
-# How do I theme my apps?
-1. Download an icon theme from any source. Ensure that it is formatted like a proper jailbreak theme.
-2. In Prism, import and apply the theme by pressing "Add", selecting the theme, waiting for it to import, tapping on the entry, and pressing "Apply Theme".
-3. Create an Icon Group by pressing "New", naming the group, selecting it, then pressing "Add Icons". Search for the apps you'd like to theme in the given widget space (small, medium, large).
-4. Play around with various styling and sizing options in the "Edit Style" tab of your icon group. By default, the icon group will look weird.
-5. Press the "Copy Widget Data" button.
-6. Add a widget to the homescreen, with the same size as the chosen size in "Edit Style".
-7. Long-press on the widget, tap "Edit Widget", and paste the widget data in the section.
-8. Bask in the glory of your pinterest-worthy homescreen
+<p align="center">
+  <img src="screenshot.png" width="40%" style="border-radius: 18px;" />
+</p>
 
-# How do I add a LiveContainer app.
-1. Once you have the app added, tap on it in the group preview.
-3. Switch from "Real App" to "Livecontainer App"
-4. Go to the Livecontainer app, long-press on your app and press "Add to Home Screen" -> "Copy Launch URL"
-5. Go back to Prism and paste the launch url into the field, and press save/
-6. Profit!
+---
 
-# Is there a redirect when tapping icons?
-- No. It utilizes the LSApplicationWorkspace private API to launch apps directly and without redirects.
-- There IS a redirect when opening Livecontainer apps, though, since we can't directly open Livecontainer URL schemes from widgets.
+## ✨ What is PrismLite?
 
-# How do I get rid of the widget outline on iOS 26?
-- You can't. You can obscure it with your icons(that's what I do), or use Nugget by LeminLimez to disable it(hasn't worked for me, but it's worth a shot)
+**PrismLite** is a lightweight, widget-based icon theming solution for **non-exploitable versions of iOS**.  
+It doesn’t *actually* replace app icons—but it gets about as close as you can without a jailbreak.
 
+By leveraging **widgets**, **private APIs**, and a carefully designed UX, PrismLite delivers a near-native themed homescreen experience.
 
-# Credits
-- [BrocoDev](https://x.com/brocodevs), Main Developer.
-- [jailbreak.party](https://github.com/jailbreak.party), Feedback and private API help.
-- [Kewlaid](https://x.com/k_wlaid), UI feedback and lite icon.
+---
+
+## ⚠️ Disclaimer
+
+> PrismLite does **NOT** modify system icons.
+
+This approach comes with limitations—but on locked-down versions of iOS, this is currently the best achievable result without exploits.
+
+---
+
+## 📱 iOS Support
+
+| iOS Version | Status |
+|------------|--------|
+| **iOS 27.0 – 27.3** | ✅ Supported |
+| iOS 17.0 – 18.6.1 | ⚠️ Technically supported (not in current builds) |
+| iOS 16.7.12 and below | ❌ Not Supported |
+
+---
+
+## 🧩 Features
+
+### 🎨 Icon Theming
+- Faux app icons
+  - Normal apps
+  - LiveContainer apps
+- Import & manage icon themes
+  - `.deb` and `.zip` formats
+- Jailbreak-style theme compatibility
+
+### 🚀 App Launching
+- Direct app launching via **LSApplicationWorkspace**
+  - Launch by Bundle ID
+  - No redirect animations
+  - Automatically fetched
+- URL scheme launching
+  - Redirect-based
+  - Required for LiveContainer
+
+### 🧱 Widgets & Styling
+- Fully transparent widgets
+  - Uses private APIs
+  - Widget does **not** open main app when tapped
+- Advanced styling controls
+  - Icon size
+  - Icon spacing
+  - Widget background effects
+  - And more…
+- Touch feedback on icons
+  - Real buttons
+  - Native press animations (unlike alternatives)
+
+---
+
+## 🎨 How to Theme Your Apps
+
+1. Download an icon theme from any source  
+   > Make sure it’s formatted like a proper jailbreak theme.
+2. Open PrismLite → tap **Add** → select your theme → wait for import  
+   Tap the theme entry → **Apply Theme**
+3. Create an **Icon Group**
+   - Tap **New**
+   - Name the group
+   - Select it → **Add Icons**
+4. Choose the apps you want to theme for the selected widget size  
+   *(Small / Medium / Large)*
+5. Go to **Edit Style**
+   - Adjust sizing and spacing  
+   > ⚠️ Default styling may look odd—this is normal.
+6. Tap **Copy Widget Data**
+7. Add a widget to your homescreen
+   - Match the widget size exactly
+8. Long-press the widget → **Edit Widget**
+   - Paste the widget data
+9. Enjoy your Pinterest-worthy homescreen ✨
+
+---
+
+## 📦 Adding a LiveContainer App
+
+1. Add the app normally to your icon group
+2. Tap the icon in the preview
+3. Switch **Real App → LiveContainer App**
+4. Open **LiveContainer**
+   - Long-press the app
+   - **Add to Home Screen** → **Copy Launch URL**
+5. Paste the launch URL into PrismLite and save
+6. Profit 💰
+
+---
+
+## 🔁 Redirect Behavior
+
+- **Normal apps:**  
+  ❌ No redirect  
+  ✔ Uses `LSApplicationWorkspace` for direct launching
+
+- **LiveContainer apps:**  
+  ⚠️ Redirect required  
+  Widgets cannot directly launch LiveContainer schemes
+
+---
+
+## 🧱 Widget Outline on iOS 26
+
+You unfortunately **cannot fully remove** the widget outline.
+
+### Workarounds:
+- Obscure it with icon placement *(recommended)*
+- Try **Nugget** by LeminLimez  
+  > Results may vary—it hasn’t worked reliably for everyone
+
+---
+
+## 🙌 Credits
+
+- **[BrocoDev](https://x.com/brocodevs)** — Main developer  
+- **[jailbreak.party](https://github.com/jailbreak.party)** — Feedback & private API guidance  
+- **[Kewlaid](https://x.com/k_wlaid)** — UI feedback & lite icon  
+
+---
+
+<p align="center">
+  <strong>PrismLite</strong><br/>
+  Pushing iOS theming as far as Apple lets us.
+</p>
