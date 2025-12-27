@@ -31,6 +31,8 @@
 This app does NOT work when sideloaded with an **enterprise** certificate. If sideloaded with a developer certificate, ensure "App Groups" are enabled/it works with widgets.
 If sideloaded with an enterprise certificate, widgets will appear blank.
 
+I am actively looking for ways to fix this issue.
+
 ---
 
 ## ✨ What is PrismLite?
