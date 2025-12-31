@@ -114,11 +114,10 @@ This approach is **extremely** limited, but on locked-down versions of iOS, this
 5. Go to **Edit Style**
    - Adjust sizing and spacing  
    > ⚠️ Default styling usually looks weird. We know.
-6. Tap **Copy Widget Data**
 7. Add a widget to your homescreen
    - Match the widget size exactly
 8. Long-press the widget → **Edit Widget**
-   - Paste the widget data
+   - Select your icon group in the "App Group" section
 9. Enjoy your Pinterest-worthy homescreen ✨
 
 ---
