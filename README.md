@@ -28,17 +28,14 @@
 
 ## ⚠️ Warning
 
-This app does NOT work when sideloaded with an **enterprise** certificate. If sideloaded with a developer certificate, ensure "App Groups" are enabled/it works with widgets.
-If sideloaded with an enterprise certificate, widgets will appear blank.
+Sideload the App With SIDESTORE or EQUIVALENT. Sideloading with a certificate will NOT work.
+Updates to this app will not be pushed until an App Store build is launched.
 
-I am actively looking for ways to fix this issue.
+This is a pre-alpha. Expect issues.
 
 ---
 
 ## ✨ What is PrismLite?
-
-*This is a STRIPPED DOWN and BAREBONES version of Prism Full. It features bugs and could use some polish. This is moreso a proof-of-concept than a final product. 
-Prism Full will have many more features than this outside of solely icon theming, and will be much more polished.*
 
 **PrismLite** is a lightweight, widget-based icon theming solution for **non-exploitable versions of iOS**.  
 It doesn’t *actually* replace app icons, but it gets about as close as you can without exploits.
